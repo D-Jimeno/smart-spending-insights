@@ -1,4 +1,4 @@
-# 📊 Smart-spending-insights (Análisis de Comportamiento de Clientes y Rentabilidad del Marketing)
+# 📊 Análisis de Comportamiento de Clientes y Rentabilidad del Marketing
 
 ## 🏢 Contexto del Proyecto
 
